@@ -1,0 +1,30 @@
+h1{
+    color: aqua;
+    font-size: 40px;
+}
+p{
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   line-height: 1.5;
+   text-align: left;
+   text-indent: 36px;
+   letter-spacing: 2px;
+   color: blueviolet;
+   font-size: 18px; 
+}
+.style1{
+    color: brown;
+}
+a{
+    color: blue;
+    font-size: 18px;
+}
+a:hover{
+    color: brown;
+}
+a:active{
+    font-size: 19px;
+}
+
+ol{
+    border: 1px solid gray;
+}
